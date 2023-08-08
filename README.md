@@ -1,3 +1,3 @@
 # Algorithms
-+ [**Fundamental concepts**]()<br>
++ [**Vital concepts**]()<br>
 + [**Linear algebra algorithms**]()
