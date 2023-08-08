@@ -1,2 +1,3 @@
 # Algorithms
-[*Linear algebra algorithms*]()
++ [**Fundamental concepts**]()<br>
++ [**Linear algebra algorithms**]()
